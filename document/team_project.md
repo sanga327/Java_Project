@@ -16,19 +16,19 @@
 
 **(1) Use Case Diagram**
 
-<img src = "./UML/Use Case Diagram.png" width="80%">
+<img src = "https://github.com/sanga327/Java_Project/tree/main/UML/Use Case Diagram.png" width="80%">
 
 
 
 **(2) Sequence Diagram**
 
-<img src = "./UML/Sequence Diagram.png" width="80%">
+<img src = "https://github.com/sanga327/Java_Project/tree/main/UML/Sequence Diagram.png" width="80%">
 
 
 
 **(3) Class Diagram**
 
-<img src = "./UML/Class Diagram.png" width="80%">
+<img src = "https://github.com/sanga327/Java_Project/tree/main/UML/Class Diagram.png" width="80%">
 
 
 
@@ -147,49 +147,49 @@
 
 - 애플리케이션 사칙연산
 
-<img src = "./images/사칙연산.gif" width="60%">
+<img src = "https://github.com/sanga327/Java_Project/tree/main/images/사칙연산.gif" width="60%">
 
 
 
 - 애플리케이션 log 연산
 
-<img src = "./images/log.gif" width="60%">
+<img src = "https://github.com/sanga327/Java_Project/tree/main/images/log.gif" width="60%">
 
 
 
 - 애플리케이션 root 연산
 
-<img src = "./images/root.gif" width="60%">
+<img src = "https://github.com/sanga327/Java_Project/tree/main/images/root.gif" width="60%">
 
 
 
 - 애플리케이션 mod 연산
 
-<img src = "./images/mod.gif" width="60%">
+<img src = "https://github.com/sanga327/Java_Project/tree/main/images/mod.gif" width="60%">
 
 
 
 - 애플리케이션 PI
 
-<img src = "./images/pi.gif" width="60%">
+<img src = "https://github.com/sanga327/Java_Project/tree/main/images/pi.gif" width="60%">
 
 
 
 - 애플리케이션 pow 연산
 
-<img src = "./images/^.gif" width="60%">
+<img src = "https://github.com/sanga327/Java_Project/tree/main/images/^.gif" width="60%">
 
 
 
 - 애플리케이션 cos 연산
 
-<img src = "./images/cos.gif" width="60%">
+<img src = "https://github.com/sanga327/Java_Project/tree/main/images/cos.gif" width="60%">
 
 
 
 - 애플리케이션 fac 연산
 
-<img src = "./images/fac.gif" width="60%">
+<img src = "https://github.com/sanga327/Java_Project/tree/main/images/fac.gif" width="60%">
 
 
 
