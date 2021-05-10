@@ -16,7 +16,7 @@
 
 **(1) Use Case Diagram**
 
-<img src = "https://github.com/sanga327/Java_Project/tree/main/UML/Use Case Diagram.png" width="80%">
+<img src = "https://github.com/sanga327/Java_Project/tree/main/UML/Use Case Diagram.png?raw=true" width="80%">
 
 
 
