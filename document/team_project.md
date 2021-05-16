@@ -60,7 +60,7 @@
 
   
 
-- **MainActivity **
+- **MainActivity**
 
   - Button 위젯의 id들을 선언, TextView 위젯의 id들을 선언, ScrollView 위젯의 id들을 선언한다.
   - double형태의 result, boolean형태의 toggle을 선언하고 있다.
